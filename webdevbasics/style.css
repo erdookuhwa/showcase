@@ -1,0 +1,35 @@
+body {
+  background-color: cyan;
+  border: coral 10px solid;
+  margin: 25px;
+}
+
+/* styling for the main card class */
+.card-main {
+  margin: 40px;
+  background-color: teal;
+  border: black 4px solid;
+}
+
+/* styling for the main heading - intro to page */
+.intro {
+  text-align: center;
+  color: white;
+}
+
+/* styling for all card components */
+.card {
+  border: 2px solid black;
+  margin: 40px;
+}
+
+.section-heading {
+  text-align: center;
+  border: blue 2px solid;
+  margin: 10px;
+  background-color: white;
+}
+
+li {
+  font-size: 19px;
+}
