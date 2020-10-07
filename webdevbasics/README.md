@@ -1,0 +1,1 @@
+# A showcase of small projects I have worked on using HTML, CSS, and JS
